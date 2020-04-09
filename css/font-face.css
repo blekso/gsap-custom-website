@@ -1,0 +1,28 @@
+@font-face
+{
+    font-family: 'Firnaily';
+    src: url('../fonts/Firnaily.ttf') format('truetype');
+
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face
+{
+    font-family: 'NexaLight';
+    src: url('../fonts/NexaLight.otf');
+    src: url('../fonts/NexaLight.ttf') format('truetype');
+
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face
+{
+    font-family: 'NexaBold';
+    src: url('../fonts/NexaBold.otf');
+    src: url('../fonts/NexaBold.ttf') format('truetype');
+
+    font-style: normal;
+    font-weight: normal;
+}

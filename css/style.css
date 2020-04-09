@@ -1,0 +1,86 @@
+* .navbar{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    height: 10vh;   
+    overflow: hidden;
+
+}
+.target{
+    margin: 0;
+}
+
+.my-navbar{
+    color:black;
+}
+
+.my-navbar-logo{
+    font-family: Firnaily;
+    font-size: 2.5rem;
+    font-weight: 100;
+    padding-left: 30vh;
+    color:black;
+}
+
+.my-ptext{
+    color:black;
+    font-size: 20px;
+    font-family:NexaLight;
+}
+
+.my-htext1{
+    color:white;
+    font-size: 100px;
+    font-family:NexaLight;
+}
+
+.my-htext2 {
+    color:white;
+    font-size: 60px;
+    font-family:NexaBold;
+}
+
+.my-btn{
+    background-color:transparent;
+    color:white;
+    font-size: 60px;
+    font-family:NexaBold;
+}
+
+.myLanding1{
+    height:120vh;
+    color: white;
+}
+.profile{
+    height: 85vh;
+}
+.animation{
+    height: 220vh;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
+.animation p{
+    opacity: 0;
+    display: block;
+}
+.text1{
+    font-size: 400px;
+}
+
+.text2{
+    font-size: 700px;
+}
+.afterAnimation{
+    height: 100vh;
+    color: black;
+    font-size: 500px;
+}
+
+.myVideo {
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+  }
